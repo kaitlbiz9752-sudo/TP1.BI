@@ -484,5 +484,43 @@ GROUP BY f.nom_filiere, t.annee;
 **L’entrepôt permet désormais :**
 
 - des analyses par filière / niveau / département,
+- des analyses par région, ville, sexe, statut administratif,
+
+- des comparaisons multi-années (évolution des inscriptions, montants encaissés),
+
+- le calcul de taux de redoublement, de désistement, etc.
+
+
+
+## Conclusion
+
+La mise en place de cet entrepôt de données a permis de transformer un système d’information fragmenté et difficile à exploiter en une plateforme analytique centralisée, cohérente et fiable. Grâce au modèle en étoile conçu et au processus ETL développé sous Talend, les données provenant de différentes sources (Excel et bases SQL hétérogènes) ont été nettoyées, harmonisées et intégrées dans une structure unique optimisée pour le reporting et l’aide à la décision.
+
+Ce travail permet désormais :
+
+- une vision unifiée des étudiants, filières et inscriptions ;
+
+- une qualité de données renforcée grâce aux règles de transformation et de normalisation appliquées ;
+
+- une capacité d’analyse multidimensionnelle (par année, filière, région, statut…) ;
+
+- la génération rapide de rapports fiables et d’indicateurs stratégiques (taux de redoublement, évolution des effectifs, distribution géographique, montant des frais collectés) ;
+
+- un support solide pour les futurs tableaux de bord et outils BI.
+
+En améliorant la cohérence, la performance et la disponibilité des données, cet entrepôt constitue un véritable socle décisionnel pour l’université, facilitant la prise de décision et la planification académique, tout en préparant l’évolution vers des systèmes d’analyse plus avancés comme la BI ou la data science.
+
+
+
+
+## Démonstration Vidéo :
+
+
+
+
+https://github.com/user-attachments/assets/5b418b8d-80c6-4370-bd88-2d23346018ad
+
+
+
 
 
