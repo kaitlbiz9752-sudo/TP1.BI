@@ -1,0 +1,10 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_5=>" expression="TalendDate.getPartOfDate(&quot;DAY_OF_WEEK&quot;,row7.date_naissance)">
+  <variables name="row7.id_etudiant" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row7.nom" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row7.prenom" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row7.sexe" value="null" talendType="id_Character" nullable="true"/>
+  <variables name="row7.date_naissance" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row7.ville" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row7.region" value="null" talendType="id_String" nullable="true"/>
+</expression:EMFExpression>
