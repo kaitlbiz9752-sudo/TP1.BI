@@ -486,5 +486,3 @@ GROUP BY f.nom_filiere, t.annee;
 - des analyses par filière / niveau / département,
 
 
- 
- 
